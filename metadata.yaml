@@ -1,0 +1,36 @@
+_repo: Portuguese-literature_75425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Aubrey F. G. (Aubrey Fitz Gerald)
+    aliases:
+    - Bell, Aubrey Fitz Gerald
+    - Bell, Aubrey F.G.
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '33309'
+    url: http://www.gutenberg.org/2009/agents/33309
+    wikipedia: https://gl.wikipedia.org/wiki/Aubrey_F._G._Bell
+description: ''
+gutenberg_issued: '2025-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75425'
+  lccn: '22012776'
+language: en
+pgterms:marc904: https://archive.org/details/portugueselitera00belluoft/page/n5/mode/2up
+pgterms:marc905: 20220324163113bell
+pgterms:marc906: '1922'
+pgterms:marc907: uk
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aOxford :$bOxford Clarendon Press, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- History and criticism'
+- !lcc 'PQ'
+- GITenberg
+title: Portuguese literature
+url: http://www.gutenberg.org/ebooks/75425
